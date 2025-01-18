@@ -8,7 +8,8 @@
     "UiPath.Mail.Activities": "[1.21.1]",
     "UiPath.System.Activities": "[23.10.3]",
     "UiPath.Testing.Activities": "[23.10.0]",
-    "UiPath.UIAutomation.Activities": "[23.10.7]"
+    "UiPath.UIAutomation.Activities": "[23.10.7]",
+    "UiPath.WebAPI.Activities": "[1.21.1]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -51,7 +52,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "7b60c7d4-58d5-4d61-8d83-1e8119a4b637",
+      "uniqueId": "5de61c51-2a94-4f74-8762-0be3cdda8b7e",
       "input": [],
       "output": []
     }
